@@ -1,0 +1,2 @@
+allow: *
+this template is used to learn git with sinaaslami
